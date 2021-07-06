@@ -19,7 +19,7 @@ Authors
 
 GitHub: [@mateo951](https://github.com/mateo951)
 Twitter: [@MVGameDev](https://twitter.com/MVGameDev)
-LinkedIn: [Mateo Villagómez](www.linkedin.com/in/mateo-villagómez)
+LinkedIn: [@Mateo Villagómez](https://www.linkedin.com/in/mateo-villagómez/)
 
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
