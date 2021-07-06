@@ -107,4 +107,5 @@ dist
 /node_modules
 .stylelintrc.json
 package-lock.json
+test.md
 
